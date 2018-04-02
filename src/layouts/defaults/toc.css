@@ -1,0 +1,11 @@
+:global .TOC {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    @media print {
+        display: none;
+    }
+
+    a:before {
+      content: "";
+    }
+}

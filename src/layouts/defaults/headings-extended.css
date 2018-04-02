@@ -1,0 +1,43 @@
+$headings--uppercase-scale: 0.94;
+
+h1, h2, h3, h4, h5 {
+
+  &:global.line, :global .line & {
+      padding-bottom: 0.3rem;
+      border-bottom: $line--thick--screen solid black;
+      @media print {
+          border-bottom-width: $line--thick--print;
+      }
+  }
+
+  &:global.uppercase {
+    text-transform: uppercase;
+    letter-spacing: .04em;
+  }
+}
+
+:global h1.uppercase, :global h1 .uppercase {
+  @mixin scontecss {
+    font-size: calc($.fontSize.h1 * $headings--uppercase-scale);
+  }
+}
+:global h2.uppercase, :global h2 .uppercase {
+  @mixin scontecss {
+    font-size: calc($.fontSize.h2 * $headings--uppercase-scale);
+  }
+}
+:global h3.uppercase, :global h3 .uppercase {
+  @mixin scontecss {
+    font-size: calc($.fontSize.h3 * $headings--uppercase-scale);
+  }
+}
+:global h4.uppercase, :global h4 .uppercase {
+  @mixin scontecss {
+    font-size: calc($.fontSize.h4 * $headings--uppercase-scale);
+  }
+}
+:global h5.uppercase, :global h5 .uppercase {
+  @mixin scontecss {
+    font-size: calc($.fontSize.h5 * $headings--uppercase-scale);
+  }
+}

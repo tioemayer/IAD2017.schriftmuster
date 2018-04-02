@@ -1,0 +1,29 @@
+p, ol, ul {
+
+  a:before {
+    content: '→ ';
+  }
+
+  // hide arrow before special links
+  a[href^='slack:']:before,
+  a[href^='mailto:']:before,
+  a[href^='tel:']:before {
+    display: none;
+  }
+
+  a[href^='http']:before {
+    display: none;
+    content: '';
+  }
+  a[href^='http']:after {
+    content: ' ↗';
+    font-size: 0.7em;
+  }
+
+  a[href]:after {
+    @media print {
+      content: ' ↗ (' attr(href) ')';
+      font-size: 0.7em;
+    }
+  }
+}

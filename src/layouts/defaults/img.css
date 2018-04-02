@@ -1,0 +1,7 @@
+img {
+    width: 100%;
+    height: auto;
+    @media print {
+        page-break-inside: avoid;
+    }
+}

@@ -1,0 +1,25 @@
+a {
+  text-decoration: none;
+  color: $color--primary--screen;
+  @media print {
+    color: $color--primary--print;
+  }
+}
+
+a:visited {
+  color: $color--secondary--screen;
+  @media print {
+    color: $color--secondary--print;
+  }
+}
+
+a:hover {
+  color: inherit;
+}
+
+a[href]:after {
+  @media print {
+    content: ' (' attr(href) ')';
+    font-size: 0.7em;
+  }
+}

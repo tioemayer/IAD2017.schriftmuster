@@ -1,0 +1,9 @@
+:global p.uppercase, :global p .uppercase {
+
+  text-transform: uppercase;
+  letter-spacing: .04em;
+
+  @mixin scontecss {
+    font-size: calc($.fontSize.p * 0.94);
+  }
+}

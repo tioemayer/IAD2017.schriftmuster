@@ -1,0 +1,13 @@
+hr {
+    display: block;
+    height: $line--thin--screen;
+    border: 0;
+    margin: 1rem 0;
+    padding: 0;
+    background-color: $color--base--screen;
+
+    @media print {
+      border-top-color: $color--base--print;
+      height: $line--thin--print;
+    }
+}

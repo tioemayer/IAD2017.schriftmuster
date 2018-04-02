@@ -1,0 +1,10 @@
+html {
+  @mixin scontecss {
+    font-size: $.fontSize.base;
+  }
+}
+
+::selection {
+  background: #b3b3b3;
+  text-shadow: none;
+}

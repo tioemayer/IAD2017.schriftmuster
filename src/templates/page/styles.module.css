@@ -1,0 +1,26 @@
+.root {
+
+}
+
+.content {
+  @mixin flegrix container {
+    columns: 12;
+    debug: true;
+  };
+
+  /* debug purpose */
+  > * {
+    background-color: red;
+  }
+}
+
+:global div > .centerColumn {
+
+    background-color: unset;
+
+     @mixin flegrix col {
+       push: 2;
+       from: 3;
+       to: 10;
+     };
+}

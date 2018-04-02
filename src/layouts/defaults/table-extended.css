@@ -1,0 +1,34 @@
+:global {
+  @for $i from 5 to 100 by 5 {
+    table .w$i {
+      width: $(i)%;
+    }
+  }
+}
+
+/* most redicous way to generate something like:
+table .w25p
+*/
+:global {
+  table .w {
+    @for $i from 5 to 100 by 5 {
+      &$i {
+        &p{
+          width: $(i)%;
+        }
+      }
+    }
+  }
+}
+
+:global table .w33p {
+    width: 33.33%;
+}
+
+:global table .w66p {
+    width: 66.66%;
+}
+
+:global td.num, :global th.num {
+	text-align: right;
+}

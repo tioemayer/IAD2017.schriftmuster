@@ -1,0 +1,10 @@
+
+/* .small li,
+.small p,
+.small ul, */
+
+small, global:.small {
+  @mixin scontecss {
+    font-size: $.fontSize.small;
+  }
+}
