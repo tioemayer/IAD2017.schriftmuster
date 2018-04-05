@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1200 400" style="enable-background:new 0 0 1200 400;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.2;fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;enable-background:new    ;}
+	.st1{font-family:'Lato-Regular';}
+	.st2{font-size:155.5px;}
+	.st3{opacity:0.7;}
+	.st4{fill:#005B72;}
+	.st5{fill:none;stroke:#005B72;stroke-width:4;stroke-miterlimit:10;}
+	.st6{fill:#FFFFFF;}
+	.st7{font-family:'OpenSans';}
+	.st8{font-size:60px;}
+	.st9{display:none;}
+</style>
+<g id="lines">
+	<line class="st0" x1="0" y1="292" x2="1200" y2="292"/>
+	<line class="st0" x1="805" y1="185.5" x2="1090" y2="185.5"/>
+	<line class="st0" x1="94" y1="177" x2="406" y2="177"/>
+	<line class="st0" x1="364" y1="209" x2="676" y2="209"/>
+</g>
+<text transform="matrix(1 0 0 1 24.8271 289.9951)" class="st1 st2">Hamburgefonts</text>
+<g id="Layer_4">
+</g>
+<g>
+	<g class="st3">
+		<circle class="st4" cx="505" cy="72" r="40"/>
+		<line class="st5" x1="505" y1="204" x2="505" y2="53.5"/>
+		<circle class="st4" cx="505" cy="209" r="12"/>
+	</g>
+	<text transform="matrix(1 0 0 1 487.8467 94.9999)" class="st6 st7 st8">3</text>
+</g>
+<g>
+	<g class="st3">
+		<circle class="st4" cx="623" cy="72.3" r="40"/>
+		<line class="st5" x1="623" y1="204.3" x2="623" y2="53.8"/>
+		<circle class="st4" cx="623" cy="209.3" r="12"/>
+	</g>
+	<text transform="matrix(1 0 0 1 605.8467 95.3332)" class="st6 st7 st8">4</text>
+</g>
+<g>
+	<g class="st3">
+		<circle class="st4" cx="930" cy="234" r="30"/>
+		<circle class="st4" cx="931" cy="73" r="40"/>
+		<line class="st5" x1="931" y1="223.5" x2="931" y2="54"/>
+	</g>
+	<text transform="matrix(1 0 0 1 912.8467 94.9999)" class="st6 st7 st8">6</text>
+</g>
+<g>
+	<g class="st3">
+		<circle class="st4" cx="721" cy="72" r="40"/>
+		<line class="st5" x1="794.3" y1="166.2" x2="745" y2="104"/>
+		<line class="st5" x1="794" y1="206" x2="794" y2="165"/>
+		<circle class="st4" cx="794" cy="217" r="12"/>
+	</g>
+	<text transform="matrix(1 0 0 1 703.8467 93.9999)" class="st6 st7 st8">5</text>
+</g>
+<g>
+	<g class="st3">
+		<circle class="st4" cx="368" cy="73" r="40"/>
+		<line class="st5" x1="368" y1="170.5" x2="368" y2="72.5"/>
+		<circle class="st4" cx="368" cy="173" r="12"/>
+	</g>
+	<text transform="matrix(1 0 0 1 350.8467 94.9999)" class="st6 st7 st8">2</text>
+</g>
+<g>
+	<g class="st3">
+		<circle class="st4" cx="207" cy="283" r="12"/>
+		<circle class="st4" cx="207" cy="73" r="40"/>
+		<line class="st5" x1="207" y1="271.5" x2="207" y2="113"/>
+	</g>
+	<text transform="matrix(1 0 0 1 189.8467 94.9999)" class="st6 st7 st8">1</text>
+</g>
+<g id="grid" class="st9">
+</g>
+</svg>
