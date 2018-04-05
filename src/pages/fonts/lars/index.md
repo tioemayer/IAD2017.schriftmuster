@@ -6,7 +6,7 @@ date: "2018-04-05"
 # {{fontname hier}}
 ### {{Vorname}} {{Nachname}}
 
-![MuktaVaani.svg](Mukta Vaani)
+![Mukta Vaani](./MuktaVaani.svg)
 
 1. Oberkant Oberlänge überragt Versalhöhe
 2. Doppelstöckiges (Zweistöckiges) a mit schrägem Anstrich

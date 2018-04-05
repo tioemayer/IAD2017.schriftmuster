@@ -13,7 +13,6 @@ const IndexPage = () => (
 
 
       <ul>
-        <li><Link to="/fonts/marius">{{Schrift von Marius}}</Link></li>
         <li><Link to="/fonts/pascale">Lato </Link></li>
         <li><Link to="/fonts/wolfgang">Rambla </Link></li>
         <li><Link to="/fonts/natasha">Open Sans </Link></li>
@@ -26,6 +25,7 @@ const IndexPage = () => (
         <li><Link to="/fonts/marc">Cooper Hewitt </Link></li>
         <li><Link to="/fonts/nadia">Bitter </Link></li>
         <li><Link to="/fonts/nicole">Raleway </Link></li>
+        <li><Link to="/fonts/marius">!! Schrift von Marius</Link></li>
       </ul>
 
 
