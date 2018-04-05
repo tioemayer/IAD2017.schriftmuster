@@ -72,7 +72,16 @@ module.exports = {
       resolve: 'gatsby-transformer-remark',
       options: {
         plugins: [
+          {
+            resolve: 'gatsby-remark-images',
+            options: {
+              maxWidth: 960,
+              linkImagesToOriginal: false
+            }
+          },
           `gatsby-remark-autolink-headers`,
+          'gatsby-remark-copy-linked-files',
+
         ],
       },
     },
