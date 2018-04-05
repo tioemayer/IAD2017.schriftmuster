@@ -1,12 +1,16 @@
 ---
-title: MariusFont
+title: IBM Plex Sans
 date: "2018-04-05"
 ---
 
-# MariusFont
-### {{Vorname}} {{Nachname}}
+# IBM Plex Sans
+<small>Stephanie Fuchs</small>
 
-![MariusFont](./MariusFont.svg)
+<div class="col1to12">
+
+![IBM Plex Sans](./IBMPlexSans.svg)
+
+</div>
 
 1. Versalhöhe H
 2. Doppelstöckiges (Zweistöckiges) a mit schrägem Anstrich
@@ -16,3 +20,15 @@ date: "2018-04-05"
 6. Verlängerte Oberlänge beim t,f,b
 7. Haarlinie bei a,m,b,u,r,g,n
 8. Ecke rund/eckig a,g,f,t
+
+
+## Design
+{{Text}}
+
+## Designer
+{{Text}}
+
+
+#### Quellen
+1. [Name der Quelle](http://...)
+2. [Name der Quelle](http://...)
