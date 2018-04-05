@@ -19,6 +19,7 @@ const {
 } = require('./config/paths')
 
 module.exports = {
+  pathPrefix: '/doc-starter',
   siteMetadata: {
     title: 'signalwerk',
   },
