@@ -18,8 +18,10 @@ const {
   cssFunctions,
 } = require('./config/paths')
 
+const defaultOverwrite = require('./config/gatsby-config');
+
 module.exports = {
-  pathPrefix: '/doc-starter',
+  pathPrefix: defaultOverwrite.pathPrefix || '/doc-starter',
   siteMetadata: {
     title: 'signalwerk',
   },
