@@ -7,7 +7,9 @@ const ColumnContainer = ({
 }) =>
   (
     <div className={styles.root}>
-      {children}
+      <div className={styles.content}>
+        {children}
+      </div>
     </div>
   );
 

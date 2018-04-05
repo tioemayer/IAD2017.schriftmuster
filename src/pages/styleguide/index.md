@@ -1,10 +1,57 @@
 ---
 title: Styleguide
-date: "2017-11-11"
+date: "2018-04-05"
 ---
 
+<div class="grid debug">
+  <div class="col1to12">
+    <h2 class="line">12 Column Grid</h2>
+  </div>
+  <div class="centerColumn">
+    <h3 class="line">Text Column</h2>
+  </div>
 
-<div class="centerColumn">
+  <div class="grid">
+    <div class="col1to6">
+      <h3 class="line">6 columns of 12</h2>
+    </div>
+    <div class="col7to12">
+      <h3 class="line">6 columns of 12</h2>
+    </div>
+  </div>
+
+  <div class="grid">
+    <div class="col1to4">
+      <h3 class="line">4 columns of 12</h2>
+    </div>
+    <div class="col5to8">
+      <h3 class="line">4 columns of 12</h2>
+    </div>
+    <div class="col9to12">
+      <h3 class="line">4 columns of 12</h2>
+    </div>
+  </div>
+
+  <div class="grid">
+    <div class="col1to3">
+      <h3 class="line">3 columns of 12</h2>
+    </div>
+    <div class="col4to6">
+      <h3 class="line">3 columns of 12</h2>
+    </div>
+    <div class="col7to9">
+      <h3 class="line">3 columns of 12</h2>
+    </div>
+    <div class="col10to12">
+      <h3 class="line">3 columns of 12</h2>
+    </div>
+  </div>
+
+
+</div>
+
+
+
 
 
 <h2 class="line">Default Text</h2>
@@ -109,7 +156,7 @@ h3 span.mask {
 
 
 
-<div class="special">
+<div class="centerColumn special">
   <h3>
     <span class="mask">Styled Text with Mask</span>
   </h3>
@@ -138,11 +185,7 @@ h3 span.mask {
 This is the Ruler:
 
 <hr>
+
 and thick
 
 <hr class="thick">
-
-
-
-
-</div>

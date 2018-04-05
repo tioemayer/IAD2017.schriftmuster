@@ -5,16 +5,18 @@ ul, ol, li {
 }
 
 ul, ol {
-  list-style: none;
+  /* list-style: none; */
   padding-left: 1rem;
 
   margin-top: 0;
   margin-bottom: .6em;
 }
 
+/*
 ul li::before {
     content: "– ";
     width: 1rem;
     margin-left: -1rem;
     display: inline-block;
 }
+*/

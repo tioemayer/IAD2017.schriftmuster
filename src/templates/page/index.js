@@ -1,6 +1,8 @@
 import React from 'react'
 import Helmet from 'react-helmet'
 import styles from './styles.module.css';
+import Header from '../../components/Header'
+import ColumnContainer from '../../components/ColumnContainer'
 
 
 export default function Template({ data, pathContext }) {
@@ -11,10 +13,13 @@ export default function Template({ data, pathContext }) {
       <Helmet
         title={`${post.frontmatter.title} – ${data.site.siteMetadata.title}`}
       />
-      <div
-        className={styles.content}
-        dangerouslySetInnerHTML={{ __html: post.html }}
-      />
+      <Header />
+      <ColumnContainer>
+        <div
+          className={'content'}
+          dangerouslySetInnerHTML={{ __html: post.html }}
+        />
+      </ColumnContainer>
     </div>
   )
 }

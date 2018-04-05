@@ -1,6 +1,133 @@
+@import '../../shared/css/variables.css';
 
 .root {
   margin: 0 auto;
+  width: 94%;
   max-width: 1040px;
   padding: 0 3%;
+  overflow: auto;
+  /* background-color: red; */
+}
+
+.root :global .content {
+  @mixin flegrix container {
+    columns: 12;
+    debug: $flegrix-debug;
+  };
+}
+
+.root :global .content .grid {
+  width: 100%;
+  @mixin flegrix container {
+    columns: 12;
+    debug: $flegrix-debug;
+  };
+}
+
+.root :global .content .grid.debug {
+  @mixin flegrix container {
+    columns: 12;
+    debug: true;
+  };
+}
+
+.root :global .content .grid > *,
+.root :global .content > * {
+     @mixin flegrix col {
+       from: 1;
+       to: 12;
+     };
+}
+
+.root :global .content .grid,
+.root :global .content {
+  & > {
+    h1, h2, h3, h4, h5,
+    p,
+    ul, ol,
+    hr,
+    table,
+    div.centerColumn {
+       @mixin flegrix col {
+         push: 2;
+         from: 3;
+         to: 10;
+       };
+    }
+  }
+}
+
+.root :global .content .grid,
+.root :global .content {
+  & > {
+    /* 1 col */
+    div.col1to12 {
+       @mixin flegrix col {
+         from: 1;
+         to: 12;
+       };
+    }
+
+    /* 2 col */
+    div.col1to6 {
+       @mixin flegrix col {
+         from: 1;
+         to: 6;
+       };
+    }
+    div.col7to12 {
+       @mixin flegrix col {
+         from: 7;
+         to: 12;
+       };
+    }
+
+    /* 3 col */
+    div.col1to4 {
+       @mixin flegrix col {
+         from: 1;
+         to: 4;
+       };
+    }
+    div.col5to8 {
+       @mixin flegrix col {
+         from: 5;
+         to: 8;
+       };
+    }
+    div.col9to12 {
+       @mixin flegrix col {
+         from: 9;
+         to: 12;
+       };
+    }
+
+    /* 4 col */
+    div.col1to3 {
+       @mixin flegrix col {
+         from: 1;
+         to: 3;
+       };
+    }
+    div.col4to6 {
+       @mixin flegrix col {
+         from: 4;
+         to: 6;
+       };
+    }
+    div.col7to9 {
+       @mixin flegrix col {
+         from: 7;
+         to: 9;
+       };
+    }
+    div.col10to12 {
+       @mixin flegrix col {
+         from: 10;
+         to: 12;
+       };
+    }
+
+
+  }
 }
