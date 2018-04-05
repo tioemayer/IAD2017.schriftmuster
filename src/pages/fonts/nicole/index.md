@@ -1,3 +1,13 @@
+---
+title: Raleway
+date: "2018-04-05"
+---
+
+# Raleway
+### {{Vorname}} {{Nachname}}
+
+![Raleway](./Raleway.svg)
+
 1. Oberlänge ist minim höher wie die Versalhöhe
 2. Abschluss bei a und u sind sehr kurz
 3. Sehr Minime Verjüngung vom Duktus

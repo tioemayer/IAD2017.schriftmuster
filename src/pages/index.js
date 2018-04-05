@@ -22,7 +22,7 @@ const IndexPage = () => (
         <li><Link to="/fonts/stephanie">IBM Plex Sans </Link></li>
         <li><Link to="/fonts/lars">Mukta Vaani </Link></li>
         <li><Link to="/fonts/severin">Faustina </Link></li>
-        <li><Link to="/fonts/marc">Cooper Hewitt </Link></li>
+        <li><Link to="/fonts/marc">Cooper Hewitt</Link></li>
         <li><Link to="/fonts/nadia">Bitter </Link></li>
         <li><Link to="/fonts/nicole">Raleway </Link></li>
         <li><Link to="/fonts/marius">!! Schrift von Marius</Link></li>

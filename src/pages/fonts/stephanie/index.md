@@ -1,8 +1,18 @@
-1. Versalhöhe H
-2. Doppelstöckiges (Zweistöckiges) a mit schrägem Anstrich
+---
+title: MariusFont
+date: "2018-04-05"
+---
+
+# MariusFont
+### {{Vorname}} {{Nachname}}
+
+![MariusFont](./MariusFont.svg)
+
+1. VersalhÃ¶he H
+2. DoppelstÃ¶ckiges (ZweistÃ¶ckiges) a mit schrÃ¤gem Anstrich
 3. Geschlossener Punzen
-4. Dreistöckiges g mit geradem Ohr (Fähnchen)
-5. Schräger Abstrich beim e
-6. Verlängerte Oberlänge beim t,f,b
+4. DreistÃ¶ckiges g mit geradem Ohr (FÃ¤hnchen)
+5. SchrÃ¤ger Abstrich beim e
+6. VerlÃ¤ngerte OberlÃ¤nge beim t,f,b
 7. Haarlinie bei a,m,b,u,r,g,n
 8. Ecke rund/eckig a,g,f,t

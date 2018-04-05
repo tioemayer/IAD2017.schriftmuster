@@ -1,12 +1,12 @@
 ---
-title: {{fontname hier}}
+title: Mukta Vaani
 date: "2018-04-05"
 ---
 
-# {{fontname hier}}
+# Mukta Vaani
 ### {{Vorname}} {{Nachname}}
 
-![Mukta Vaani](./MuktaVaani.svg)
+![Mukta Vaani](MuktaVaani.svg)
 
 1. Oberkant Oberlänge überragt Versalhöhe
 2. Doppelstöckiges (Zweistöckiges) a mit schrägem Anstrich
