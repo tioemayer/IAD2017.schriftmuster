@@ -21,13 +21,9 @@ date: "2018-04-05"
 
 
 ## Design
-Cooper Hewitt, die Schrift, entstand um die Expansion und das damit einhergehende Rebranding des Museums zu begleiten.
-Es ist Teil eines flexiblen Branding-Systems, von Pentagramms Eddie Opara, der das Branding entwickelte und Chester Jenkins von Village, der die Schrift zeichnete.
-Der Schriftsatz wurde Open Source um die Identität des Brands «Cooper Hewitt» zu unterstreichen. Ein Museum für die Leute. Cooper Hewitt gehört zu 19 Museen unter
-der Smithsonian Institution. Das Brand «Cooper Hewitt» kam zuerst, es wurde danach aus der Logotype eine ganze Schriftenfamilie entwickelt um im Branding Verwendung zu finden.
-Für das Logo herhalten musste aber zuerst ein anderer Font. Bevor der Font in seiner heutigen Form entstand war er «Polaris Condensed» der abgewandelt wurde um als Logo
-von Cooper Hewitt verwendet zu werden. Gezeichnet wurde sie dann aber von vorn. Die Formen der Polaris Condensed waren bloss eine grobe Vorlage und wurden für die
-Schriftstärken, Weiten und das «look and feel» gebraucht. 
+Die Schrift Cooper Hewitt entstand, um die Expansion und das damit einhergehende Rebranding des Museums zu begleiten. Sie ist Teil eines flexiblen Branding-Systems, von Pentagramms Eddie Opara, der das Branding entwickelte und Chester Jenkins von Village, der die Schrift zeichnete.
+Der Schriftsatz wurde Open Source entwickelt, um die Identität des Brands «Cooper Hewitt» zu unterstreichen. Ein Museum für die Leute. Cooper Hewitt gehört zu 19 Museen unter der Smithsonian Institution. Das Brand «Cooper Hewitt» kam zuerst, es wurde danach aus der Logotype eine ganze Schriftfamilie entwickelt, um im Branding Verwendung zu finden. Für das Logo herhalten musste aber zuerst ein anderer Font.
+Bevor der Font in seiner heutigen Form entstand hiess er «Polaris Condensed», der abgewandelt wurde, um als Logo von Cooper Hewitt verwendet zu werden. Gezeichnet wurde sie dann aber neu. Die Formen der Polaris Condensed waren bloss eine grobe Vorlage und wurden für die Schriftstärken, Weiten und das «look and feel» gebraucht.
 
 ## Designer
 {{Text}}
