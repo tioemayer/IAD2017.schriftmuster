@@ -29,10 +29,10 @@ Der Umfang der Ubuntu-Schriftfamilie umfasst alle Sprachen, die von den Ubuntu B
 
 
 Quellen: 
-Besucht am 21.03.2018 und 10:35: https://wiki.ubuntu.com/UbuntuFontFamily/History
-Besucht am 21.03.2018 und 10:35: https://de.wikipedia.org/wiki/Ubuntu
-Besucht am 21.03.2018 und 10:35: https://design.ubuntu.com/font/
-Besucht am 21.03.2018 und 10:35: https://fonts.google.com/specimen/Ubuntu
+Besucht am 21.03.2018 und 10:35: https://wiki.ubuntu.com/UbuntuFontFamily/History<br>
+Besucht am 21.03.2018 und 10:35: https://de.wikipedia.org/wiki/Ubuntu<br>
+Besucht am 21.03.2018 und 10:35: https://design.ubuntu.com/font/<br>
+Besucht am 21.03.2018 und 10:35: https://fonts.google.com/specimen/Ubuntu<br>
 
 
 ## Designer
