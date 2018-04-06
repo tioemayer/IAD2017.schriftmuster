@@ -30,7 +30,6 @@ Neben den Italic-Schnitten von ExtraLight und Regulag gibt es noch eine organisc
 
 
 #### Quellen
-1. [designerinaction](http://www.designerinaction.de/typografie/neuton-von-brian-zick
-)
-2. [luc.devroye](http://...)
-3. [fontsquirrel](http://...)
+1. [Designer in action](http://www.designerinaction.de/typografie/neuton-von-brian-zick)
+2. [Luc Devroye](http://luc.devroye.org/zick.html)
+3. [FontSquirrel](http://www.fontsquirrel.com/fonts/neuton)
