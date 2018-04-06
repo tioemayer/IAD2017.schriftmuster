@@ -8,7 +8,7 @@ date: "2018-04-05"
 
 <div class="col1to12">
 
-![MariusFont](./MariusFont.svg)
+![Newton](./Newton.svg)
 
 </div>
 
