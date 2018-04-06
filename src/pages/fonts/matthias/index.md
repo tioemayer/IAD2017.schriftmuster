@@ -34,7 +34,11 @@ die Schrift stark überarbeitet fast alles hat sich verändert da die Schrift
 auf allen Displays in Autos, Uhren, Desktops, Fernseher, Tablets und Mobile
 funktionieren muss.
 Alt und neu im Vergleich:
-xxxxxxx
+ <div class="col1to12">
+
+![Roboto](./the_new_roboto2.png)
+
+</div>
 Um zwischen alt und neu zu unterscheiden sieht man sich am besten die
 Buchstaben „R“ und „K“ an, sowie die Punkte auf dem „i“ und „j“ welche
 nun rund sind.
