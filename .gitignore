@@ -7,9 +7,16 @@ yarn-error.log
 # Build directory
 /public
 travis/.ssh/id_rsa
-/src/layouts/defaults/__OLD
-/src/pages/indextst.md
-/src/pages/research
-/src/pages/todo
-/src/pages/ui
-/src/shared/css/__OLD
+/src/components/ColumnContainer
+/src/components/Header
+/package.json
+/gatsby-ssr.js
+/gatsby-node.js
+/gatsby-config.js
+/gatsby-browser.js
+/src/templates
+/src/shared
+/src/layouts
+/src/pages/404.js
+/src/pages/styleguide
+/package-lock.json

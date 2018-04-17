@@ -5,7 +5,7 @@ The default signalwerk documentation starter.
 ## Install
 
 ```sh
-npm install
+sh gatsby.sh && npm install
 ```
 
 ## run
