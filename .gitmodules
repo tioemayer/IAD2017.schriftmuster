@@ -1,0 +1,3 @@
+[submodule "gatsby"]
+	path = gatsby
+	url = git@github.com:signalwerk/gatsby-signalwerk.git
