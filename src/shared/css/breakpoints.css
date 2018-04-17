@@ -1,6 +1,0 @@
-
-$breakpoint-tablet: $breakpoints--m;
-$breakpoint-desktop: $breakpoints--l;
-
-@custom-media --breakpoint-m (min-width: $breakpoints--m);
-@custom-media --breakpoint-l (min-width: $breakpoints--l);
