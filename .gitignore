@@ -19,3 +19,4 @@ travis/.ssh/id_rsa
 /src/layouts
 /src/pages/404.js
 /src/pages/styleguide
+/package-lock.json
