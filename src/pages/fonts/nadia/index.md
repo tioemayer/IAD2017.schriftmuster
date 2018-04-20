@@ -30,9 +30,18 @@ Die Schrift weist im Duktus nur kleine Stärken-Variationen auf. Die Regular ist
 Das Kerning wurde manuell sorgfältig durchgeführt. Das ist bei Screens-Typefaces sehr wichtig, weil nicht jeder Browser über Ausgleichsfunktionen verfügt. So bietet die Bitter immer ein gutes, ausgeglichenes Schriftbild. 
 
 ## Designer
-{{Text}}
+Sol Matas ist Grafik- und Typedesigner. Sie hat an der Universität von Buenos Aires studiert und war dort später Gastdozentin im Masterlehrgang für Typografie.
+
+Sie begann als Grafik Designer bei der Agentur Saatchi & Saatchi in Buenos Aires. Aktuell führt sie ihr eigenes Studio in Berlin – das «Sonnenstudio» – und ist Co-Founder bei die Type Foundry Huerta Tipográfica in Argentinien, für die sie immer noch arbeitet. Sol Matas ist auf Branding und Typedesign spezialisiert und arbeitet für Kunden aus Lateinamerika, Europa und USA für die sie lateinische, cyrillische und griechische Fonts entwickelt.
+
+Ihre Type Projekte wurden für die Bienal Tipos Latinos 2010, Tipos Latinos 2012 und den 5. International Typography Congress in Valencia ausgewählt. 
+
+Zu sehen war sie bei Vorlesungen in Schulen und auf Konferenzen in Argentinien, Kolumbien, Spanien und Deutschland.
+
+Weitere Fonts von Sol Matas sind: Abhaya, Ayanna Narrow, Gemunu und Parque Chas ht (Sol Matas und Juan Pablo del Peral).
+
 
 
 #### Quellen
 1. [font.google](https://fonts.google.com/specimen/Bitter)
-2. [Name der Quelle](http://...)
+2. [solmatas.com](http://www.solmatas.com/ )
