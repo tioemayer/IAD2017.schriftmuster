@@ -22,6 +22,7 @@ date: "2018-04-05"
 6. gerader Absatz
 7. abgeschrägter Absatz
 
+<br>
 
 ## Design
 <b>Open Sans wurde überall verwendet. Sie gehört zu den beliebtesten Google Fonts.</b>
@@ -34,9 +35,10 @@ Open Sans ist bei Designern im Flat Design beliebt. Für die Standardschrift von
 
 Seit 2016 gibt es sogar auch eine serifenbetonte Schrift – Open Serif.
 
+<br>
 
 ## Designer
-Steve Matteson
+<b>Steve Matteson</b>
 
 Der amerikanische Schriftdesigner Steve Matteson ist im Jahr 1965 geboren und lebt zurzeit in Louisville (Colorado). Er studierte am Rochester Institute of Technology und war von den dort verwahrten Sammlungen historischer Ausrüstungen für den Typenguss und Buchdruck fasziniert. Seit 30 Jahren beschäftigt er sich mit Schriften in jeder Form. Er hat selbst viele gestaltete Schriften entworfen. Die Schriften – Droid, Open Sans usw stammen von ihm. Darüber hinaus entwarf er Schriften für Marken wie Microsoft und Google, e-Reader-Schriften für Amazon und Barnes & Noble. Ab 1991 wurde er bei Monotype tätig und arbeitet dort als Creative Type Director.
  
@@ -46,6 +48,7 @@ Im Jahr  2010 kehrte er als Creative Type Director zu Monotype zurück. Seitdem
  
 Heute ist er ein berühmter Schriftdesigner geworden. Seine andere Leidenschaft ist die Musik und biken. 
 
+<br>
 
 #### Quellen
 1. [Open Sans im Wikipedia](https://en.wikipedia.org/wiki/Open_Sans)
