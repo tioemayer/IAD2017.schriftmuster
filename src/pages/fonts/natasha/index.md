@@ -50,6 +50,6 @@ Heute ist er ein berühmter Schriftdesigner geworden. Seine andere Leidenschaft 
 #### Quellen
 1. [Open Sans im Wikipedia](https://en.wikipedia.org/wiki/Open_Sans)
 2. [Open Sans im Typografie.info](https://www.typografie.info/3/Schriften/fonts.html/open-sans-r438/)
-3. [Steve Matteson im Linotype] (https://www.linotype.com/de/3238/steve-matteson.html)
-4. [Steve Matteson im Wikipedia] (https://en.wikipedia.org/wiki/Steve_Matteson)
-5. [Steve Matteson im Typecon] (http://www.typecon.com/speakers/steve-matteson)
+3. [Steve Matteson im Linotype](http://www.linotype.com/de/3238/steve-matteson.html)
+4. [Steve Matteson im Wikipedia](http://en.wikipedia.org/wiki/Steve_Matteson)
+5. [Steve Matteson im Typecon](http://www.typoecon.com/speakers/steve-matteson)
