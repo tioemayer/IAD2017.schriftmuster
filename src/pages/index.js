@@ -13,7 +13,7 @@ const IndexPage = () => (
 
 
       <ul>
-        <li><Link to="/fonts/pascale">!!!! Lato</Link></li>
+        <li><Link to="/fonts/pascale">Lato</Link></li>
         <li><Link to="/fonts/wolfgang">Rambla</Link></li>
         <li><Link to="/fonts/natasha">Open Sans</Link></li>
         <li><Link to="/fonts/matthias">Roboto</Link></li>
