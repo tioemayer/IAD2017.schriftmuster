@@ -30,7 +30,9 @@ Zusätzlich zur Rambla ist die Rambla Alt erschienen, eine Variation der Schrift
 
 
 ## Designer
-{{Text}}
+Martin Sommaruga ist in Montevideo Uruguay geboren und hat Graphic Designer an der ORT Universität in Uruguay studiert. Dort unterrichtete er zwischen 2000 und 2009 Kommunikation und Design. Seit 2010 ein Mitglied der Sociedad Tipográfica de Montevideo. Er bezeichnet Typografie als das perfekte Gefäss um Design und Inhalt zu vereinen. Neben der Rambla hat er auch die Rufina, die Amelia sowie die Marine Rounded gestaltet.
+
+Er gründete 2009 mit Vicente Lamónaca und Fernando Díaz die Foundry TipoType, als die erste Type-Foundry die in Uruguay beheimatet ist. Mit der Foundry wollen sie zeitgenössische Typografie vertreiben, zudem soll diese Type Designer als Plattform dienen, damit sie ihre Fonts einfach kommerzialisieren können. Die Foundry veröffentlichte mit der Economica und der Quiroga Serif die ersten Fonts aus Uruguay auf MyFonts. Martin Sommaruga ist auf Twitter @martinmvd.
 
 
 #### Quellen
@@ -39,3 +41,5 @@ Zusätzlich zur Rambla ist die Rambla Alt erschienen, eine Variation der Schrift
 3. http://www.myfonts.com/fonts/tipotype/rambla-alt/
 4. https://www.tiposlatinos.com/bienales
 5. https://tipotype.com/rambla/
+6. https://www.myfonts.com/foundry/TipoType/
+7. https://www.fontown.com/en/font-designers/martin-sommaruga
